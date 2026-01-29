@@ -1,0 +1,15 @@
+body {
+  /* background-color: lightblue; */
+}
+
+h1 {
+  /* color: rgb(240, 135, 135); */
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+html {background-color: #1e154a}
