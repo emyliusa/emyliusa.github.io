@@ -8,8 +8,21 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: "Lucida Console", monospace;
   font-size: 20px;
 }
 
 html {background-color: #1e154a}
+
+
+
+.paragprah_default {
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
+}
+
+.paragprah_red {
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
+    color: #fc0341;
+}
