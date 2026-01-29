@@ -19,11 +19,11 @@ html {background-color: #1e154a}
 .paragprah_default {
     font-family: "Lucida Console", monospace;
     font-size: 12px;
-    color: #d79af5;
+    color: #d79af5 !important;
 }
 
 .paragprah_red {
     font-family: "Lucida Console", monospace;
     font-size: 12px;
-    color: #fc0341;
+    color: #fc0341 !important;
 }
